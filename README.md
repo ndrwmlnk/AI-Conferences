@@ -11,10 +11,10 @@
 |[ECCV](https://eccv2024.ecva.net)|March|September|
 |[ICCV](https://iccv.thecvf.com)|March|October|
 |[IROS](http://www.iros25.org)|March|October|
+|[CoRL](https://www.corl.org)|April|September|
 |[NeurIPS](https://neurips.cc)|May|December|
 |[German Conf. on AI](https://www.informatik.uni-wuerzburg.de/ki24)|May|September|
-|[CoRL](https://www.corl2023.org)|June|November|
-|[Humanoids](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/humanoids)|July|November|
+|[Humanoids](https://www.humanoid-robotics.org/index.php/proceedings/)|May|November|
 |[AAAI](https://aaai.org/conference/aaai/aaai-25)|August|February|
 |[3DV](https://3dvconf.github.io)|August|March|
 |[HRI](https://humanrobotinteraction.org/2026/)|September|March|
