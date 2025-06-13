@@ -1,4 +1,4 @@
-# AI-conferencies
+# AI-Conferences
 
 |Name|Paper deadline|Event|
 |---|---|---|
@@ -17,6 +17,7 @@
 |[Humanoids](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/humanoids)|July|November|
 |[AAAI](https://aaai.org/conference/aaai/aaai-25)|August|February|
 |[3DV](https://3dvconf.github.io)|August|March|
+|[HRI](https://humanrobotinteraction.org/2026/)|September|March|
 |[IEEE ICASSP](https://2025.ieeeicassp.org/important-dates)|September|April|
 |[ICRA](https://2025.ieee-icra.org)|September|May|
 |[AAMAS](https://aamas2025.org)|October|May|
@@ -26,3 +27,6 @@
 
 [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)  
 [Association for Computational Linguistics Rolling Review](https://aclrollingreview.org)
+
+[Top venues: Robotics](https://scholar.google.co.uk/citations?view_op=top_venues&vq=eng_robotics)  
+[Top venues: AI](https://scholar.google.co.uk/citations?view_op=top_venues&vq=eng_artificialintelligence)  
